@@ -1,3 +1,6 @@
 [build]
   functions = "index.js"
   publish = "public"
+[submodule "chat-app"]
+	path = path/to/chat-app
+	url = https://github.com/example/chat-app.git
